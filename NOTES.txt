@@ -1,0 +1,19 @@
+- Translate mockups into interactive prototypes
+- Building complex components is like stacking legos
+- React Native, React VR
+- React shouldn't be the only tool in your box
+- Being forced to think in systems and code makes you a better designer
+- Multiple components = a design pattern
+- React's core concept (components) fits design very well
+- Putting CSS directly in the component's file sounds great!
+  + Others won't like it
+  + Media queries are harder
+  + Can also try a scss partial for each component
+  + Most all of CSS problems are instantly solved
+- React Storybook
+- React Sketch.app (https://github.com/airbnb/react-sketchapp)
+  + https://airbnb.design/painting-with-code/
+
+  
+https://teamgaslight.com/blog/react-and-you-a-designers-point-of-view
+http://www.reactnativediary.com/2017/05/09/react-for-designers-interviews.html
