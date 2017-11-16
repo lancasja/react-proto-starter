@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import MyComponent from './components/my-component';
+import Example from './components/example/example';
 
-const App = () => (
-    <MuiThemeProvider>
-        <MyComponent />
-    </MuiThemeProvider>
-);
+const App = () => {
+
+    return (
+        <div>
+            <Example name={'Jonathan'}/>
+        </div>
+    )
+};
 
 ReactDOM.render(
   <App />,
